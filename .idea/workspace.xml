@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f38e718-b8d1-4acb-9c6c-f802bd82afaf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinLanjutan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Argumen Default Fungsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array2Dimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMethod.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMultidimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayTipePrimitive.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArraystandardKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Collections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Elvis Operator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi Math.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi dengan nilai kembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi tanpa nilai kembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kalkulato SederhanaMenggunakanPercabangan IF-ELSE IF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorSederhanaMenggunakanPercabanganWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Menggunakan Pair sebagai nilai kembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Menghitung Akar Kuadrat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Menghitung Luas dan Keliling Lingkaran.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Null.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Pemanggilan yang aman (Safe Calls).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Pemeriksaan Kondisi Null.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan For-Loop dalam Kalkulator Eksponensial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan While-Loop dalam Kalkulator Sederhana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanFor-LoopdalamTabelPerkalian.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Single Expression Functions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/While dan Do-While Loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arrayListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arrayOf().kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/break dan continue label.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/break dan continue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for-loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi lambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/listOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mutableListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penanganan eksepsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/return pada perulangan for-loop.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2mSIEKSXsRA9FQrRPiFF3CECv1Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Fungsi_tanpa_nilai_kembaliKt">
+    <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
+      <module name="KotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayMethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayMethodKt" />
+      <module name="KotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTipePrimitiveKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTipePrimitiveKt" />
+      <module name="KotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraystandardKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraystandardKotlinKt" />
+      <module name="KotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fungsi_tanpa_nilai_kembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fungsi_tanpa_nilai_kembaliKt" />
+      <module name="KotlinLanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Fungsi_tanpa_nilai_kembaliKt" />
+        <item itemvalue="Kotlin.Array2DimensiKt" />
+        <item itemvalue="Kotlin.ArrayMethodKt" />
+        <item itemvalue="Kotlin.ArrayTipePrimitiveKt" />
+        <item itemvalue="Kotlin.ArraystandardKotlinKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f38e718-b8d1-4acb-9c6c-f802bd82afaf" name="Changes" comment="" />
+      <created>1727063440950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727063440950</updated>
+    </task>
+    <servers />
+  </component>
+</project>
