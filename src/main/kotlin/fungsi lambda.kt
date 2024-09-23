@@ -14,4 +14,6 @@ fun MyFunction(x: String): String {
 fun myFun(a:String, action:(String)->Unit) { //passing lambda
     print("\nHeyyy!!!")
     action(a)// call to lambda function
+
+    //c
 }

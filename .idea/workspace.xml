@@ -4,57 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f38e718-b8d1-4acb-9c6c-f802bd82afaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinLanjutan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Argumen Default Fungsi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array2Dimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMethod.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMultidimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayTipePrimitive.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArraystandardKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Collections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Elvis Operator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi Math.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi dengan nilai kembali.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi tanpa nilai kembali.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kalkulato SederhanaMenggunakanPercabangan IF-ELSE IF.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorSederhanaMenggunakanPercabanganWhen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Map.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Menggunakan Pair sebagai nilai kembali.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Menghitung Akar Kuadrat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Menghitung Luas dan Keliling Lingkaran.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Null.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Pemanggilan yang aman (Safe Calls).kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Pemeriksaan Kondisi Null.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan For-Loop dalam Kalkulator Eksponensial.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan While-Loop dalam Kalkulator Sederhana.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanFor-LoopdalamTabelPerkalian.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ranges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Set.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Single Expression Functions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/While dan Do-While Loop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arrayListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arrayOf().kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/break dan continue label.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/break dan continue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for-loop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsi lambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/listOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mutableListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penanganan eksepsi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/return pada perulangan for-loop.kt" afterDir="false" />
+    <list default="true" id="3f38e718-b8d1-4acb-9c6c-f802bd82afaf" name="Changes" comment="add Collections.kt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +96,29 @@
       <option name="presentableId" value="Default" />
       <updated>1727063440950</updated>
     </task>
+    <task id="LOCAL-00001" summary="add Collections.kt">
+      <created>1727081326149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727081326149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Collections.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Collections.kt" />
   </component>
 </project>
